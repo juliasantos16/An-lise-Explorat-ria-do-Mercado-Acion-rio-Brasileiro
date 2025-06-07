@@ -8,3 +8,5 @@
 - Gráficos de preços e retornos para entender a dinâmica de cada ação.
 - Uma investigação sobre a (curiosa!) relação entre a economia e o desempenho das ações.
 - Um "mapa" de risco vs. retorno para identificar oportunidades mais eficientes.
+
+Link do DataFrame original: https://www.kaggle.com/datasets/andrewmvd/brazilian-stock-market
